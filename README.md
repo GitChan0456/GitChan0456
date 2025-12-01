@@ -2,7 +2,7 @@
 ### 기술 스택 (Tech Stack)
 
 - **Language:** Java, Python, C
-- **Database:** MySQL
+- **Database:** MySQL, msSQL, Oracle DB
 - **Etc:** GitHub
 
 ---
