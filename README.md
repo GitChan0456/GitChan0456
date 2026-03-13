@@ -4,7 +4,7 @@
 - **Language:** Java, Python, C
 - **Database:** MySQL, msSQL, Oracle DB
 - **Etc:** GitHub
-
+- **Licenses:** 정보처리기사, SQLD
 ---
 
 ### 현재 진행중인 기말 프로젝트
