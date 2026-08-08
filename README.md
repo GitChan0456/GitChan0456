@@ -4,7 +4,7 @@
 - **Language:** Java, Python, C
 - **Database:** MySQL, msSQL, Oracle DB
 - **Etc:** GitHub
-- **Licenses:** 정보처리기사, SQLD
+- **Licenses:** 정보처리기사, SQLD, ADsP
 ---
 
 ### 연락처 (Contact)
